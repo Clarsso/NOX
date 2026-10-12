@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { ShoppingBag, Search, SlidersHorizontal, HelpCircle, CheckCircle2 } from 'lucide-react';
 import { initialProducts } from './data/products';
 import type { Product, Category } from './types';
