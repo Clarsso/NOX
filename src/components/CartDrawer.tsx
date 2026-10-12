@@ -96,7 +96,7 @@ export const CartDrawer: React.FC<CartDrawerProps> = ({
     }
 
     // Número real de Juárez (Lada 52 + 10 dígitos)
-    const phoneNumber = '52656XXXXXXX'; 
+    const phoneNumber = '526567450396'; 
 
     let message = '🔥 *NUEVO PEDIDO DESDE NOX* 🔥\n\n';
 
